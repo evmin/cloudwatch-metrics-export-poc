@@ -1,0 +1,14 @@
+{
+  "name": "save-metrics",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Saves latest metrics from CloudWatch to S3",
+  "license": "Apache-2.0",
+  "repository": {},
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.792.0"
+  }
+}
